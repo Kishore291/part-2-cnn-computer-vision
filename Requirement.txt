@@ -1,1 +1,0 @@
-tensorflow, matplotlib, seaborn, scikit-learn
